@@ -1,7 +1,9 @@
 # springboot-projects
-This repository contains projects on different springboot features
-// ON_DEV
-## What completed
+This repository contains projects on different springboot features <br>
+**// ON_DEV**
+
+## Order Processing System (Spring Boot Web REST API)
+### What completed
 1. **Employee Role setup** <br>
    Curl commands to add and get employee roles:
    1. add a new employee role: curl localhost:8888/api/v1/employee_role/add -d empRoleTitle=User
