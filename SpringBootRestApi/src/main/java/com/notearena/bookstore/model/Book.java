@@ -1,5 +1,17 @@
 package com.notearena.bookstore.model;
 
+/*
+ * ------------------------------------------------------|
+ * Spring Boot REST API
+ * =====================================
+ * 2023 NoteArena.com opensource project
+ * @Author: Mamun Kayum
+ * @Modified:
+ * @Version: 1.0
+ * Feel free use this implementation
+ *-------------------------------------------------------|
+ */
+
 public class Book {
 
     private Long id;
