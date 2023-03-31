@@ -5,6 +5,7 @@ This repository contains projects on different springboot features <br>
 # Projects
 # 1. SpringBootRestApi
 ### Spring boot REST API in-memory example
+To see the basic Spring Boot REST API project visit: https://tinyurl.com/56ez5acs <br>
 Visit the following tutorial on https://notearena.com for more documentation:
 https://tinyurl.com/rufc6p6j
 
